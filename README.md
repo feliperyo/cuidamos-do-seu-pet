@@ -1,5 +1,5 @@
 <h1 align="center">
-  We Care</h1>
+  Cuidamos do seu pet</h1>
 <br>
 <h3 align="center">Estudo de responsividade utilizando HTML e CSS.</h3>
 <br>
@@ -14,5 +14,5 @@
 <br>
 <br>
 <div align="center">
-<a href="https://feliperyo.github.io/we-care/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+<a href="https://feliperyo.github.io/cuidamos-do-seu-pet/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 </div>
