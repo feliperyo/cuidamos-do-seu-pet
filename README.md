@@ -1,7 +1,7 @@
 <h1 align="center">
   Cuidamos do seu pet</h1>
 <br>
-<h3 align="center">Estudo de responsividade utilizando HTML e CSS.</h3>
+<h3 align="center">Estudo de HTML, CSS e Responsividade.</h3>
 <br>
 <br>
 <div align="center">
